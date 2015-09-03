@@ -1,0 +1,39 @@
+{
+	"name": "haxe-benchmark",
+	"version": "0.0.1",
+	"description": "Externs of benchmark.js v3.x for Haxe",
+	"author": "Adi Reddy Mora",
+	"homepage": "http://adireddy.github.io",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adireddy/haxe-benchmark"
+	},
+	"bugs": {
+		"url": "https://github.com/adireddy/haxe-benchmark/issues"
+	},
+	"keywords": [
+		"js",
+		"haxe",
+		"benchmark",
+		"benchmark.js",
+		"extern",
+		"web",
+		"library"
+	],
+	"dependencies": {
+		"grunt": "latest",
+		"grunt-cli": "latest",
+		"grunt-browserify": "latest",
+		"grunt-contrib-uglify": "latest",
+		"grunt-contrib-copy": "latest",
+		"grunt-exec": "latest",
+		"grunt-haxe": "latest",
+		"grunt-npm-install": "latest",
+		"grunt-shell": "latest",
+		"grunt-zip": "latest"
+	},
+	"license": "MIT",
+	"devDependencies": {
+
+	}
+}
