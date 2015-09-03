@@ -1,0 +1,6 @@
+-cp src
+-cp samples
+-main inlinetest.Main
+
+-js samples/_output/inlinetest/inlinetest.js
+-dce full

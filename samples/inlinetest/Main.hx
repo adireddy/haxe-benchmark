@@ -1,12 +1,4 @@
-# haxe-benchmark
-
-Externs of benchmark.js for Haxe - A robust javascript benchmarking library
-
-Just added the basic functions needed.
-
-### Usage ###
-
-```haxe
+package inlinetest;
 
 import benchmark.Benchmark;
 import benchmark.Suite;
@@ -61,4 +53,3 @@ class Main {
 		new Main();
 	}
 }
-```
